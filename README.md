@@ -1,0 +1,1 @@
+# Chegg_SQL_basic-Single-Query
